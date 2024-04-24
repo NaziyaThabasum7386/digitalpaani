@@ -1,3 +1,21 @@
+# Weather App
+
+## Introduction
+This Weather App allows users to search for current weather conditions in various cities around the world. It utilizes the [WeatherAPI](https://www.weatherapi.com/) to fetch weather details such as temperature, humidity, wind speed, and conditions.
+
+## Features
+- Search for cities globally.
+- View current weather conditions.
+- Responsive design for desktop and mobile devices.
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- You have installed the latest version of [Node.js and npm](https://nodejs.org/en/).
+- You have a basic understanding of React.js.
+- You have obtained an API key from [WeatherAPI](https://www.weatherapi.com/).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
